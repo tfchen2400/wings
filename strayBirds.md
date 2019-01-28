@@ -1,6 +1,6 @@
 # stray birds《飞鸟集》 泰戈尔(印度)
 
-## 1
+## 1  
 Stray birds of summer come to my window to sing and flay away. And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.  
 夏天的飞鸟，飞到了我窗前唱歌，又飞去了。秋天的黄叶，他们没有什么可唱，只叹息一声，飞落在那里。  
 ---
