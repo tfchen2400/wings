@@ -29,3 +29,13 @@ vi.巡回演出;
 n.流浪者
 ### 瞎JB翻译
 啊，这个世界上的一团流浪者啊，留下你们的脚印在我的文字里。--Tenfy 2019-01-28
+
+## 3
+The world puts off its mask of vastness to its lover. It becomes small as one song, as one kiss of the eternal.  
+世界对着它爱的人，把浩瀚的面具揭下了。它变小了，小如一首歌，小如一回永恒的吻。
+### vastness
+n.巨大;广大;广漠;
+### eternal
+adj.永恒的;不朽的;
+### 瞎jb翻译
+世界放下了它的广大的面具，对着它的爱人。它变小了像如同一首歌，如同一个永恒之吻。
