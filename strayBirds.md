@@ -49,3 +49,23 @@ vt.使开花;使茂盛;
 vi.开花;茂盛; 
 ### 瞎jb翻译
 是地球的眼泪保持她在青春时期的微笑。
+
+## 5
+The mighty desert is burning for the love of a blade of grass who shakes her head and laughs and flies away.  
+广漠无垠的沙漠热烈地追求着一叶绿草的爱，但她摇摇头，笑起来，飞了开去。
+### mighty
+adj.有力的;强有力的;有势力的  
+adv.很;极;非常  
+n.有势力的人
+### blade
+n.叶片;刀片,刀锋;剑
+### 瞎jb翻译
+强大的沙漠燃烧对一片绿草燃烧着爱,那个绿草摇摇头,笑起来,飞了开去。(这不是舔狗么)
+
+## 6
+If you shed tears when you miss the sun,you also miss the stars.  
+如果错过了太阳时你流了泪,那么你也要错过群星了。
+### shed
+vt. 流出；摆脱；散发；倾吐  
+vi. 流出；脱落；散布  
+n. 小屋，棚；分水岭  
