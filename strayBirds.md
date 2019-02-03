@@ -69,3 +69,26 @@ If you shed tears when you miss the sun,you also miss the stars.
 vt. 流出；摆脱；散发；倾吐  
 vi. 流出；脱落；散布  
 n. 小屋，棚；分水岭  
+
+## 7
+The sands in your way beg for your song and your movement,dancing water.Will you carry the burden of their lameness.  
+跳舞着的流水呀,在你途中的泥沙，要求你的歌声，你的流动呢。你肯挟破足的泥沙而俱下么？
+### burden 
+n. 负担；责任；船的载货量  
+vt. 使负担；烦扰；装货于  
+n. (Burden)人名；(英)伯登  
+### lameness
+n. 跛；残废；僵而疼痛的
+
+## 8
+Her wistful face haunts my dreams like the rain at night.  
+她的热切的脸，如夜雨似的，搅扰着我的梦魂。
+### wistful
+adj. 渴望的；沉思的，默想的；引起怀念的；不满足似的
+### haunts
+vt. 常出没于…；萦绕于…；经常去…
+vi. 出没；作祟
+n. 栖息地；常去的地方
+### 瞎jb翻译
+她渴望的脸，像夜雨一般，经常出现咋我的梦境里。
+
