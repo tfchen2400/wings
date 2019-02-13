@@ -92,3 +92,36 @@ n. 栖息地；常去的地方
 ### 瞎jb翻译
 她渴望的脸，像夜雨一般，经常出现咋我的梦境里。
 
+## 9
+Once we dreamt that we were strangers.We wake up to find that we were dear to each other.  
+有一次，我们梦见大家都是不相识的。  
+我们醒了，却在知道我们是相亲相爱的。
+### strangers
+n. 陌生人，陌生事物；门外汉（stranger的复数形式）
+
+## 10
+Sorrow is hushed into peace in my heart like the evening among the silent trees.  
+忧思在我的心里平静下去，正如黄昏在静寂的林中。
+### sorrow
+n. 悲伤；懊悔；伤心事  
+vi. 懊悔；遗憾；感到悲伤  
+vt. 为…悲痛 
+### hush
+vt. 安静；肃静；缄默  
+n. 安静；肃静；沉默  
+vi. 沉默；安静下来  
+int. 嘘；别作声  
+### hushed
+adj. 寂静的；安静的
+v. 安静；缄默；肃静（hush的过去分词）
+
+## 11
+Some unseen fingers,like an idle breeze,are playing upon my heart the music of the ripples.  
+有些看不见的手指，如懒懒的微飔似的，正在我的心上，奏着潺湲的乐声。
+### breeze
+n. 微风；轻而易举的事；煤屑；焦炭渣；小风波  
+vi. 吹微风；逃走  
+n. (Breeze)人名；(法)布雷兹  
+### ripples
+n. 涟漪；波纹（ripple的复数）  
+v. 呈波状（ripple的单三形式）
