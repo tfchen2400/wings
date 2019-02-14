@@ -142,4 +142,9 @@ adj. 永恒的；不朽的
 ### thy
 pron. 你的
 
-
+## 13
+Listen,my heart,to the whispers of the world with which it makes love to you.  
+静静地听，我的心呀，听那"世界"的低语，这是他对你的爱的表示呀。
+### whispers
+n. 低语（whisper的复数）；沙沙声  
+v. 低声地说；私下说（whisper的三单形式）
