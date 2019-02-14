@@ -125,3 +125,21 @@ n. (Breeze)人名；(法)布雷兹
 ### ripples
 n. 涟漪；波纹（ripple的复数）  
 v. 呈波状（ripple的单三形式）
+
+## 12
+"What language is thine,O sea?"  
+"The language of eternal question."  
+"What language is thy answer,O sky?"  
+"The language of eternal silence."  
+"海水呀，你说的是什么？"  
+"是永恒的疑问。"  
+"天空呀，你回答的话是什么？"  
+"是永恒的沉默。"
+### thine
+pron. 你的；你的东西，你的家属（或有关的人）
+### eternal
+adj. 永恒的；不朽的
+### thy
+pron. 你的
+
+
