@@ -148,3 +148,10 @@ Listen,my heart,to the whispers of the world with which it makes love to you.
 ### whispers
 n. 低语（whisper的复数）；沙沙声  
 v. 低声地说；私下说（whisper的三单形式）
+
+## 14
+The mystery of creation is like the darkness of night -- it is great.Delusions of knowledge are like the fog of the morning. 
+创造的神秘，有如夜间的黑暗，--是伟大的。而知识的幻影，不过如晨间之雾。
+### delusions
+n. [内科] 妄想；错觉（delusion的复数形式）
+
