@@ -155,3 +155,12 @@ The mystery of creation is like the darkness of night -- it is great.Delusions o
 ### delusions
 n. [内科] 妄想；错觉（delusion的复数形式）
 
+## 15
+Do not seat your love upon a precipice because it is high.  
+不要因为峭壁是高的，而让你的爱情坐在峭壁上。
+### precipice
+n. 悬崖；绝壁；险境
+
+## 16 
+I sit at window this morning where the world like a passer-by stops for a moment,nods to me and goes.   
+我今晨坐在窗前,"世界"如一个过路的人似的，停留了一会，向我点点头又走过去了。
