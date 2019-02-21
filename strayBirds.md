@@ -164,3 +164,31 @@ n. 悬崖；绝壁；险境
 ## 16 
 I sit at window this morning where the world like a passer-by stops for a moment,nods to me and goes.   
 我今晨坐在窗前,"世界"如一个过路的人似的，停留了一会，向我点点头又走过去了。
+
+## 17
+These little thoughts are the rustle of leaves;they have their whisper of joy in my mind.  
+这些微思，是绿叶的簌簌之声呀；他们在我的心里，愉悦地微语着。
+### thoughts 
+n. 思想；想法（thought的复数）；思维
+### rustle 
+vi. 发出沙沙声  
+vt. 使…沙沙作响  
+n. 沙沙声；急忙；飒飒声  
+### whisper
+n. 私语；谣传；飒飒的声音  
+vi. 耳语；密谈；飒飒地响  
+vt. 低声说出
+
+## 18
+What you are you do not see, what you see is you shadow.
+你看不见你的真相，你所看见的，只是你的影子。
+
+## 19
+My wishes are fools,they shout across thy songs,my Master.Let me but listen.  
+主呀，我的那些愿望真是愚傻呀，它们杂在你的歌声中喧叫着呢。  
+让我只是静听吧。
+
+### shout
+vi. 呼喊；喊叫；大声说  
+vt. 呼喊；大声说  
+n. 呼喊；呼叫
