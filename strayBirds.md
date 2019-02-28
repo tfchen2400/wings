@@ -192,3 +192,32 @@ My wishes are fools,they shout across thy songs,my Master.Let me but listen.
 vi. 呼喊；喊叫；大声说  
 vt. 呼喊；大声说  
 n. 呼喊；呼叫
+
+## 20
+I cannot choose the best.The best chooses me.  
+我不能选择最好的。是那最好的选择我。
+
+## 21
+They throw their shadows before them who carry their lantern on their back.  
+那些把灯背在他们的背上的人，把他们的影子投到他们前面去。
+
+### lantern
+n. 灯笼；提灯；灯笼式天窗
+
+## 22
+That I exist is a perpetual surprise which is life.  
+我存在，乃是所谓生命的一个永恒的奇迹。
+
+### perpetual
+adj. 永久的；不断的；四季开花的；无期限的
+
+## 23
+"We,the rustling leaves,have a voice that answers the storms,but who are you so silent?"  
+"I am a mere flower."
+"我们，萧萧的树叶，都有声响回答那暴风雨，但你是谁呢，那样地沉默着？"  
+"我不过是一朵花。"
+
+### mere
+adj. 仅仅的；只不过的  
+n. 小湖；池塘  
+n. (Mere)人名；(日)目连(姓)；(西)梅雷
