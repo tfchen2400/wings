@@ -221,3 +221,18 @@ adj. 永久的；不断的；四季开花的；无期限的
 adj. 仅仅的；只不过的  
 n. 小湖；池塘  
 n. (Mere)人名；(日)目连(姓)；(西)梅雷
+
+## 24
+Rest belongs to the work as the eyelids to the eyes.
+休息之隶属于工作，正如眼睑之隶属于眼睑。
+
+### eyelids
+n. 眼睑；眼皮（eyelid的复数）
+
+## 25
+Man is a born child,his power is the power of growth.  
+人是一个初生的孩子，他的力量，就是生长的力量。
+
+## 26
+God expects answers for the flowers he send us,not for the sun and the earth.  
+上帝希望我们酬答他的，在于他送给我们的花朵，而不在于太阳和土地。
